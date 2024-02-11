@@ -25,8 +25,8 @@ Soy Óscar Gonzalez, Vivo en Ciudad de México,
 
 ### Intereses
 
--Python Blender
--
--
--
--
+- Python Blender
+- Go testing
+- Terraform
+- Consul
+- KNCA
