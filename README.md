@@ -1,9 +1,9 @@
-# github-certification-preparacion
+# Github-certification-preparacion
 guia de preparacion de github fundamentals
 
 Ejemplos de uso de Gituhub enfocados a la certificaión.
 
-## Aceca de mi (About me)
+## Acerca de mi (About me)
 
 Soy Óscar Gonzalez, Vivo en Ciudad de México, 
 
